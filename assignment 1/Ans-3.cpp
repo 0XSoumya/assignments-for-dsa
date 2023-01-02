@@ -1,3 +1,4 @@
+// takes 1 int,long,char,float,double as input and prints them in separate lines
 #include <iostream>
 using namespace std;
 
